@@ -30,6 +30,6 @@ This C++ project simulates a garden with various plants, allowing users to manag
 
 ## Installation
 1. Clone this project
-2. Write names of plants you want in 'name.txt'
+2. Write the names of plants you want in 'name.txt'
 3. Run the project
 
