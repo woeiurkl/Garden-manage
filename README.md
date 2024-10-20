@@ -4,13 +4,11 @@ This C++ project simulates a garden with various plants, allowing users to manag
 
 
 
-
 ## About The Project
 - Creates a garden with a user-specified number of plants
 - Updates plant growth (branches and roots) based on watering and sunlight
 - Sorts plants by name, number of branches, or number of roots
 - View statistics about plants (longest name, shortest name, highest branch count)
-- Exception handling for invalid inputs and file operations
 
 
 ### Built with
